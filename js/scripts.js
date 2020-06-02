@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  $(".col-sm-3.well.well-lg").click(function() {
+  $("div.well").click(function() {
     $("desc").toggle();
   });
 });
