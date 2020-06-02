@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  $("p.term").click(function() {
-    $("p.desc").toggle();
+  $("div.well").click(function() {
+    $(this).children("p.desc").fadeToggle();
   });
 });

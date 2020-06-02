@@ -1,6 +1,5 @@
 .col-sm-3 {
   height: 150px;
-  /* margin-left: 5px; */
 }
 
 .term {
@@ -10,4 +9,8 @@
 
 .desc {
   display: none;
+}
+
+.jumbotron {
+  text-align: center;
 }
